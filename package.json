@@ -1,5 +1,5 @@
 {
-  "name": "@leveloneproject/dfsp-rule",
+  "name": "@mojaloop/dfsp-rule",
   "version": "0.5.25",
   "description": "DFSP Rule service",
   "main": "index.js",
@@ -80,7 +80,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LevelOneProject/dfsp-rule.git"
+    "url": "git@github.com:mojaloop/dfsp-rule.git"
   },
   "engines": {
     "node": ">=4.4.7",
