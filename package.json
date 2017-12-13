@@ -1,6 +1,6 @@
 {
   "name": "@mojaloop/dfsp-rule",
-  "version": "0.5.25",
+  "version": "0.5.27",
   "description": "DFSP Rule service",
   "main": "index.js",
   "scripts": {
@@ -85,9 +85,6 @@
   "engines": {
     "node": ">=4.4.7",
     "npm": ">=3.10.6"
-  },
-  "publishConfig": {
-    "registry": "https://modusbox.jfrog.io/modusbox/api/npm/level1-npm-release"
   },
   "author": "Kalin Krustev <kalin.krustev@softwaregroup-bg.com>",
   "license": "Apache-2.0"

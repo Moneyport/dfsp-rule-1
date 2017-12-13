@@ -1,3 +1,13 @@
+<a name="0.5.26"></a>
+## [0.5.26](https://github.com/softwaregroup-bg/@mojaloop/dfsp-rule/compare/v0.5.25...v0.5.26) (2017-12-07)
+
+
+### Bug Fixes
+
+* move to mojaloop ([37907c9](https://github.com/softwaregroup-bg/@mojaloop/dfsp-rule/commit/37907c9))
+
+
+
 <a name="0.5.25"></a>
 ## [0.5.25](https://github.com/softwaregroup-bg/@leveloneproject/dfsp-rule/compare/v0.5.24...v0.5.25) (2017-10-13)
 
